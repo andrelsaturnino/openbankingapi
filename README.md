@@ -1,9 +1,6 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
+<h1 align="center">Open Banking API</h1>
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
+<p align="center">API que será necessário para consultas no banco(mysql)</p>
 
   <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
     <p align="center">
@@ -17,57 +14,92 @@
 <a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
   <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
     <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
+  <a href="https://img.shields.io/github/commit-activity/m/andrelsaturnino/openbankingapi" target="_blank"><img src="https://img.shields.io/github/commit-activity/m/andrelsaturnino/openbankingapi"></a>
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+<p align="center">
+ <a href="#objetivo">Objetivo</a> •
+ <a href="#roadmap">Roadmap</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#contribuicao">Contribuição</a> • 
+ <a href="#licenc-a">Licença</a> • 
+ <a href="#autor">Autor</a>
+</p>
+
+<h4 align="center"> 
+	  🚀 V1 Finalizado.  
+</h4>
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-## Installation
+### Features
+
+- [x] Criação CRUD
+- [x] CRUD funcionando
+
+## Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Node.js](https://nodejs.org/en/).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+### 🎲 Rodando o Back End (servidor)
 
 ```bash
+# Clone este repositório
+$ git clone <https://github.com/andrelsaturnino/openbankingapi.git>
+
+# Instale as dependências
 $ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev:server
+
+# O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
 
-## Running the app
-
-```bash
 # development
+
 $ npm run start
 
 # watch mode
+
 $ npm run start:dev
 
 # production mode
+
 $ npm run start:prod
+
 ```
 
-## Test
+### 🛠 Tecnologias
 
-```bash
-# unit tests
-$ npm run test
+As seguintes ferramentas foram usadas na construção do projeto:
 
-# e2e tests
-$ npm run test:e2e
+- [Nest.js](https://nestjs.com/)
+- [TypeORM](https://typeorm.io/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [MySQL](https://www.mysql.com/)
+- [GitHub](https://github.com/)
 
-# test coverage
-$ npm run test:cov
-```
+### Autor
 
-## Support
+---
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+<a href="https://blog.rocketseat.com.br/author/thiago/">
+ <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
 
-## Stay in touch
+Feito com ❤️ por André Saturnino 👋🏽 Entre em contato!
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+[![Linkedin Badge](https://img.shields.io/badge/-Andresaturnino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/andresaturnino//)](https://www.linkedin.com/in/andresaturnino/)
+[![Gmail Badge](https://img.shields.io/badge/-andre.l.saturnino@hotmail.com-c14438?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:andre.l.saturnino@hotmail.com)](mailto:andre.l.saturnino@hotmail.com)
 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+```

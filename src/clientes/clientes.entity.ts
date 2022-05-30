@@ -1,4 +1,4 @@
-import { Bancos } from 'src/listaBanco/bancos.entity';
+import { Bancos } from 'src/banco/bancos.entity';
 import {
   Entity,
   Column,

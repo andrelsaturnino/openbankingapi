@@ -38,7 +38,10 @@
 ### Features
 
 - [x] Criação CRUD
-- [x] CRUD funcionando
+- [x] Criar clientes (controller,entity,module,providers e service)
+- [x] Criar database (module,providers)
+- [x] Criar banco (controller,entity,module,providers e service)
+- [x] Criar relacionamento (controller,entity,module,providers e service)
 
 ## Pré-requisitos
 

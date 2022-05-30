@@ -61,20 +61,6 @@ $ npm run dev:server
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
 
-# development
-
-$ npm run start
-
-# watch mode
-
-$ npm run start:dev
-
-# production mode
-
-$ npm run start:prod
-
-```
-
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -102,4 +88,7 @@ Feito com ❤️ por André Saturnino 👋🏽 Entre em contato!
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+```
+
 ```

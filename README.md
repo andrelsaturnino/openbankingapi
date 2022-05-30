@@ -75,10 +75,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+<a href="https://github.com/andrelsaturnino">
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQG2JcHXmA_Yew/profile-displayphoto-shrink_800_800/0/1539454367240?e=1659571200&v=beta&t=CezxnJA2QdOnrsLFmIHZafm5h1LPYpZnWX0jIMtQGHY" width="100px;" alt=""/>
  <br />
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+ <sub><b>André Saturnino</b></sub></a> <a href="https://github.com/andrelsaturnino" title="Rocketseat">🚀</a>
 
 Feito com ❤️ por André Saturnino 👋🏽 Entre em contato!
 
